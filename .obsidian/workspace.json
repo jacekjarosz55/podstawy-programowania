@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "formaty w c.md",
-                "mode": "source",
+                "file": "Zadania/Zadania podstawy programowania 2.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "formaty w c.md",
+                "file": "Zadania/Zadania podstawy programowania 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "formaty w c.md",
+                "file": "Zadania/Zadania podstawy programowania 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "formaty w c.md"
+                "file": "Zadania/Zadania podstawy programowania 2.md"
               }
             }
           }
@@ -160,9 +160,9 @@
   },
   "active": "fb8855608be802f8",
   "lastOpenFiles": [
+    "formaty w c.md",
     "Zadania/Zadania podstawy programowania 2.md",
     "README.md",
-    "formaty w c.md",
     "Zadania"
   ]
 }

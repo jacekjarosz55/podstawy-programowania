@@ -54,7 +54,9 @@ void zadanie_3(void) {
     scanf("%d", &input_b);
     a = (unsigned char) input_a;
     b = (unsigned char) input_b;
-
+	/* wyjaśnienie:
+normalnie w c można zrobić scanf unsigned char przy pomocy %hhu, jednak implementacja MinGW której używa code::blocks tego nie wspiera i traktuje to jako %u, nadpisując poprzednie dane. Nie wiem co ustawić w code blocks żeby to zadziałało 
+	*/
 
     printf("a, b = %x, %x (%d, %d)\n", a, b, a, b);
     printf("a & b = %x (%d)\n", a&b, a&b);
@@ -123,6 +125,3 @@ int main()
 }
 
 ```
-
-
-[[formaty w c]]
