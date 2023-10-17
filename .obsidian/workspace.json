@@ -11,8 +11,12 @@
             "id": "fb8855608be802f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "formaty w c.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania/Zadania podstawy programowania 2.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zadania/Zadania podstawy programowania 2.md",
+                "file": "formaty w c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zadania/Zadania podstawy programowania 2.md",
+                "file": "formaty w c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zadania/Zadania podstawy programowania 2.md"
+                "file": "formaty w c.md"
               }
             }
           }
@@ -155,9 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44c4b09ab19c2484",
+  "active": "fb8855608be802f8",
   "lastOpenFiles": [
-    "Zadania",
-    "Zadania/Zadania podstawy programowania 2.md"
+    "Zadania/Zadania podstawy programowania 2.md",
+    "README.md",
+    "formaty w c.md",
+    "Zadania"
   ]
 }

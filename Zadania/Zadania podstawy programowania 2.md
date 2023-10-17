@@ -123,3 +123,6 @@ int main()
 }
 
 ```
+
+
+[[formaty w c]]
