@@ -48,7 +48,7 @@ printf("Znak najpozniejszy w alfabecie to %c", latest);
 ## Zadanie 3
 
 Tutaj jest problem:
-normalnie w c można zrobić `scanf` unsigned char przy pomocy `%hhu`, jednak implementacja MinGW której używa code::blocks tego nie wspiera i traktuje to jako `%u`, nadpisując poprzednie dane. Dlatego najpierw pobierany jest int, który potem konwertowany jest na unsigned char
+normalnie w c można zrobić `scanf` unsigned char przy pomocy `%hhu`, jednak implementacja MinGW której używa code::blocks na Windowsie tego nie wspiera i traktuje to jako `%u`, nadpisując poprzednie dane. Dlatego najpierw pobierany jest int, który potem konwertowany jest na unsigned char
 
 ```c
 int input_a;
