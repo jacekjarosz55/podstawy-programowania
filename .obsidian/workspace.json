@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Formaty w C.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zadania/Instrukcja 1.md",
+                "file": "Formaty w C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zadania/Instrukcja 1.md",
+                "file": "Formaty w C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zadania/Instrukcja 1.md"
+                "file": "Formaty w C.md"
               }
             }
           }
@@ -158,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb8855608be802f8",
+  "active": "09a1472d01fc9fb0",
   "lastOpenFiles": [
-    "formaty w c.md",
     "Zadania/Instrukcja 1.md",
     "README.md",
+    "Formaty w C.md",
     "Zadania"
   ]
 }

@@ -1,4 +1,8 @@
 
+# Tabela formatów
+
+Todo: dokończyć
+
 |Specifier|Used For|
 |---|---|
 |%c|a single character|
