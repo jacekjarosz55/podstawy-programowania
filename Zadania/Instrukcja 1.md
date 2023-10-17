@@ -136,4 +136,26 @@ printf("%d\n", x);
 
 ## Zadanie 9
 
-Do zrobienia...
+### I prawo De Morgana
+
+Prawo zaprzeczania koniunkcji: _negacja koniunkcji jest równoważna alternatywie negacji_
+
+```c
+int a, b;
+
+if (~(~a | ~b) == (a & b)) {
+	printf("Przykład działa\n");
+}
+```
+
+### II prawo De Morgana
+
+Prawo zaprzeczenia alternatywy: _negacja alternatywy jest równoważna koniunkcji negacji_
+
+```c
+int a, b;
+
+if (~(~a & ~b) == (a | b)) {
+	printf("Przykład działa\n");
+}
+```

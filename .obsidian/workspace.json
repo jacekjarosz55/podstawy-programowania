@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5cb794d112754943",
@@ -146,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb8855608be802f8",
+  "active": "44c4b09ab19c2484",
   "lastOpenFiles": [
-    "Formaty w C.md",
+    "2023-10-17.md",
     "Zadania/Instrukcja 1.md",
+    "Formaty w C.md",
     "README.md",
     "Zadania"
   ]
